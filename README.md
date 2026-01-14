@@ -1,7 +1,7 @@
 
 # Grub2 Themes for Gentoo
 
-A few simple Grub2 themes designed with proud gentoo users in mind. They are designed to complement my <a href="github.com/telemin/gentoo-slim-themes">SLiM</a> themes in the same style.
+A few simple Grub2 themes designed with proud gentoo users in mind. They are designed to complement my [SLiM](https://github.com/telemin/gentoo-slim-themes) themes in the same style.
 
 ## Glass
 
